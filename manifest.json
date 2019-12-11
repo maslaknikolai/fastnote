@@ -1,0 +1,20 @@
+{
+  "name": "FastNote",
+  "short_name": "FastNote",
+  "icons": [
+    {
+      "src": "img/icons/android-chrome-192x192_3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/android-chrome-512x512_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1f2635",
+  "theme_color": "#67368C"
+}
